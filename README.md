@@ -56,4 +56,6 @@ Before running the script, make sure you have the following prerequisites:
 
 You can customize the script by editing the `install_software.sh` file and modifying the list of tools/packages to install or by changing the configuration options to suit your needs.
 
+similar operations can be done for other files as well.
+
 I am open to contributions
