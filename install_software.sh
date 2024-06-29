@@ -3,6 +3,10 @@
 # Set your username on the computer
 your_user_name_on_computer="vishwasn"
 
+
+
+#just commenting
+
 # Install Homebrew and some common tools
 
 # Install snap package manager (for Linux systems)
